@@ -1,1 +1,2 @@
 # midterm
+task 1 
